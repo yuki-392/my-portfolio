@@ -7,10 +7,10 @@ function Header() {
   return (
     <nav className="bg-gray-800 py-4 shadow-lg">
       <div className="container mx-auto px-4 flex justify-between items-center">
-        {/* Logo or Brand Name */}
-        <div className="text-white text-xl font-bold">My Portfolio</div>
+        {/* ロゴ */}
+        <a href="/" className="text-white text-xl font-bold">My Portfolio</a>
 
-        {/* Hamburger Menu Button */}
+        {/* ハンバーガーメニュー */}
         <button
           className="text-gray-300 hover:text-white md:hidden"
           onClick={() => setIsMenuOpen(!isMenuOpen)}
