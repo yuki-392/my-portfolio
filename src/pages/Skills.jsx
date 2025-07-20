@@ -12,7 +12,6 @@ function Skills() {
               key={index}
               className="bg-gray-800 p-6 rounded-lg shadow-lg hover:shadow-2xl transition"
             >
-              <div className="text-5xl mb-4 text-center">{skill.icon}</div>
               <h2 className="text-2xl font-bold mb-2 text-center">
                 {skill.name}
               </h2>

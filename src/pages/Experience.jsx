@@ -15,7 +15,6 @@ function Experience() {
               <h2 className="text-2xl font-bold mb-2 text-center">
                 {experience.title}
               </h2>
-              <p className="text-gray-400 text-center">{experience.organization}</p>
               <p className="text-gray-400 text-center">{experience.year}</p>
               <p className="text-gray-400 text-center">{experience.description}</p>
             </div>

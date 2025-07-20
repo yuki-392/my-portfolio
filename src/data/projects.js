@@ -3,7 +3,7 @@ export const projects = [
       title: "ポートフォリオサイト",
       description: "自分のスキルを紹介するためのポートフォリオサイトです。",
       link: "https://github.com/yuki-392/my-portfolio",
-      technologies: ["React", "Vite", "Tailwind CSS"],
+      technologies: ["React", "Node.js", "Tailwind CSS"],
     },
     {
       title: "Todoアプリ",

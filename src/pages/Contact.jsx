@@ -86,7 +86,7 @@ function Contact() {
             >
               <i className="fab fa-linkedin text-3xl"></i>
             </a>
-            {/* Phone */}
+            {/* 電話 */}
             <a
               href="tel:+819033018715"
               className="text-gray-400 hover:text-white transition"

@@ -31,7 +31,7 @@ function Header() {
           </svg>
         </button>
 
-        {/* Navigation Links */}
+        {/* ナビゲーション */}
         <ul
           className={`md:flex md:items-center md:space-x-8 ${
             isMenuOpen ? "block" : "hidden"

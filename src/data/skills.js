@@ -1,27 +1,38 @@
 export const skills = [
     {
-      name: "React",
-      description: "コンポーネントベースのJavaScriptライブラリで、ユーザーインターフェースを構築します。",
-      icon: "⚛️", // アイコンとして絵文字を使用
+      name: "JavaScript",
+      description: "使用経験あり",
     },
     {
-      name: "JavaScript",
-      description: "Web開発における最も基本的で強力なプログラミング言語。",
-      icon: "📜",
+      name: "TypeScript",
+      description: "学習中",
+    },
+    {
+      name: "React",
+      description: "使用経験あり",
+    },
+    {
+      name: "Next.js",
+      description: "使用経験あり",
+    },
+    {
+      name: "Node.js/Express",
+      description: "使用経験あり",
+    },
+    {
+      name: "Python",
+      description: "使用経験あり",
     },
     {
       name: "Tailwind CSS",
-      description: "ユーティリティファーストのCSSフレームワークで、迅速なスタイリングが可能。",
-      icon: "🎨",
+      description: "学習中",
     },
     {
-      name: "Git",
-      description: "バージョン管理システムで、コードの履歴を管理します。",
-      icon: "🌲",
+      name: "Git/GitHub",
+      description: "個人開発で使用",
     },
     {
-      name: "Vite",
-      description: "高速なフロントエンド開発ビルドツール。",
-      icon: "⚡",
+      name: "Vercel",
+      description: "デプロイ経験あり",
     },
   ];

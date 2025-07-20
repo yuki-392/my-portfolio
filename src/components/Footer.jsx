@@ -5,7 +5,7 @@ function Footer() {
           © {new Date().getFullYear()} Yuki. All Rights Reserved.
         </p>
         <p className="text-xs">
-          Designed and Built with <span className="text-red-500">♥</span> using
+          Designed and Built with using
           React and Tailwind CSS.
         </p>
       </footer>
